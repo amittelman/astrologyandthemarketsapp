@@ -18,6 +18,3 @@ minimumReleaseAge: 1440
 packages:
   - .
 
-overrides:
-  # https://github.com/advisories/GHSA-rgj7-g3m4-5g8c
-  sharp@<0.35.4: ^0.35.4
